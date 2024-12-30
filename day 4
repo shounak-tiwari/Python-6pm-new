@@ -1,0 +1,26 @@
+variable : reserved memory block for store executional data but python is a object oriented so python have refereces or refercence object 
+
+identifiers : is a name which is use for declare any entity 
+rules of identifiers : 
+
+1. when we declare any entity not able to use any number in first ...
+2. when we declare any entity not able to use any white spece and special char except underscore
+
+3.when we declare any entity not able to use any keyword name as a name of entity 
+
+
+how to take input and how give output 
+
+print()
+input()
+
+
+
+Data types : data types is a type of data which is store inside the reference or object 
+
+1. mutable 
+2. immutable 
+
+
+1.int 
+2.float 
